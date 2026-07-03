@@ -1,0 +1,501 @@
+customer_id,age,annual_income,city,signup_date,newsletter_subscriber,customer_feedback
+CUST-1000,,67450.0,los angeles,12/25/2022,yes,
+CUST-1001,36.0,,Los Angeles!,2023-01-15,YES,"Average product, does the job but nothing special."
+CUST-1002,45.0,93345.0,New York,07-04-2023,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1003,35.0,,Chicagoo,"Oct 12, 2021",yes,Absolutely amazing value for the price!
+CUST-1004,,56487.0,New Yrok,07-04-2023,n,"Average product, does the job but nothing special."
+CUST-1005,56.0,,los angeles,"Oct 12, 2021",yes,Excellent user experience! Will buy again.
+CUST-1006,47.0,,SF,invalid_date_xyz,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1007,32.0,59138.0,San Fran,2024/05/01,no,Absolutely amazing value for the price!
+CUST-1008,32.0,44014.0,Houston,invalid_date_xyz,yes,Excellent user experience! Will buy again.
+CUST-1009,40.0,34300.0,Chicago,2023-01-15,y,Absolutely amazing value for the price!
+CUST-1010,18.0,21565.0,Chicagoo,07-04-2023,yes,Worst service ever. App crashes continuously on startup.
+,25.0,45213.0,,12/25/2022,False,Absolutely amazing value for the price!
+CUST-1012,-50.0,15000.0,L.A.,"Oct 12, 2021",NO,Worst service ever. App crashes continuously on startup.
+CUST-1013,21.0,56484.0,San Fran,07-04-2023,,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1014,,56613.0,Los Angeles,12/25/2022,y,Customer support was incredibly slow and unhelpful.
+CUST-1015,38.0,38628.0,San Fran,"Feb 28, 2024",no,"Average product, does the job but nothing special."
+CUST-1016,31.0,51163.0,New York,12/25/2022,NO,Customer support was incredibly slow and unhelpful.
+CUST-1017,24.0,44635.0,New Yrok,12/25/2022,,Absolutely amazing value for the price!
+,,50990.0,los angeles,"Feb 28, 2024",YES,Worst service ever. App crashes continuously on startup.
+CUST-1019,34.0,44974.0,houston,2023-01-15,yes,Excellent user experience! Will buy again.
+CUST-1020,60.0,92797.0,,2024/05/01,no,Customer support was incredibly slow and unhelpful.
+CUST-1021,25.0,52838.0,San Francisco,07-04-2023,NO,"Average product, does the job but nothing special."
+CUST-1022,23.0,40632.0,chicago,12/25/2022,,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1023,,30604.0,Chicago,"Oct 12, 2021",YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1024,22.0,38952.0,San Francisco,12/25/2022,YES,Excellent user experience! Will buy again.
+CUST-1025,46.0,74570.0,L.A.,2020-11-30,y,Absolutely amazing value for the price!
+CUST-1026,36.0,52483.0,New York,2020-11-30,False,Worst service ever. App crashes continuously on startup.
+CUST-1027,999.0,1479322.0,San Francisco,2024/05/01,yes,Absolutely amazing value for the price!
+CUST-1028,,49202.0,Los Angeles,"Feb 28, 2024",YES,Customer support was incredibly slow and unhelpful.
+CUST-1029,32.0,66856.0,Houston,"Feb 28, 2024",NO,Absolutely amazing value for the price!
+CUST-1030,42.0,,Houston,07-04-2023,NO,The shipment arrived 3 days late. Not happy.
+CUST-1031,18.0,34861.0,chicago,07-04-2023,no,"Average product, does the job but nothing special."
+CUST-1032,33.0,42346.0,N.Y.,07-04-2023,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1033,,69175.0,san francisco,07-04-2023,no,"Average product, does the job but nothing special."
+CUST-1034,50.0,91969.0,Chicagoo,"Feb 28, 2024",YES,"Average product, does the job but nothing special."
+CUST-1035,27.0,38861.0,Los Angeles!,07-04-2023,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1036,41.0,79133.0,Los Angeles,07-04-2023,NO,Customer support was incredibly slow and unhelpful.
+CUST-1037,32.0,,Houston,"Oct 12, 2021",True,Customer support was incredibly slow and unhelpful.
+CUST-1038,35.0,38904.0,New Yrok,invalid_date_xyz,,Absolutely amazing value for the price!
+CUST-1039,23.0,49687.0,SF,"Feb 28, 2024",False,The shipment arrived 3 days late. Not happy.
+CUST-1040,54.0,82919.0,Chicagoo,invalid_date_xyz,y,"Average product, does the job but nothing special."
+CUST-1041,50.0,83424.0,Los Angeles!,12/25/2022,n,Worst service ever. App crashes continuously on startup.
+CUST-1042,30.0,53420.0,San Francisco,"Feb 28, 2024",n,Worst service ever. App crashes continuously on startup.
+CUST-1043,56.0,86462.0,san francisco,invalid_date_xyz,,The shipment arrived 3 days late. Not happy.
+CUST-1044,56.0,47703.0,Los Angeles,2023-01-15,True,
+CUST-1045,,72328.0,Los Angeles!,"Feb 28, 2024",True,Excellent user experience! Will buy again.
+CUST-1046,39.0,,Chicago,2023-01-15,NO,Excellent user experience! Will buy again.
+CUST-1047,34.0,55376.0,N.Y.,2020-11-30,YES,The shipment arrived 3 days late. Not happy.
+CUST-1048,18.0,26704.0,Chicago,"Feb 28, 2024",NO,
+CUST-1049,42.0,88168.0,Chicagoo,2023-01-15,True,Excellent user experience! Will buy again.
+CUST-1050,31.0,37372.0,Houston,invalid_date_xyz,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1051,31.0,63231.0,San Fran,2020-11-30,NO,Excellent user experience! Will buy again.
+CUST-1052,41.0,56553.0,San Fran,07-04-2023,NO,"Average product, does the job but nothing special."
+CUST-1053,44.0,70456.0,,12/25/2022,True,Absolutely amazing value for the price!
+CUST-1054,49.0,65969.0,Houston,"Oct 12, 2021",n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1055,34.0,48118.0,Chicagoo,"Oct 12, 2021",NO,The shipment arrived 3 days late. Not happy.
+CUST-1056,20.0,37441.0,Los Angeles!,2020-11-30,NO,"Average product, does the job but nothing special."
+CUST-1057,,63915.0,Chicago,2024/05/01,False,
+,38.0,56481.0,Chicago,invalid_date_xyz,no,Excellent user experience! Will buy again.
+CUST-1059,21.0,28190.0,SF,"Feb 28, 2024",NO,Worst service ever. App crashes continuously on startup.
+CUST-1060,33.0,40465.0,houston,12/25/2022,NO,"Average product, does the job but nothing special."
+CUST-1061,36.0,63060.0,,invalid_date_xyz,NO,"Average product, does the job but nothing special."
+CUST-1062,60.0,95618.0,Chicagoo,"Oct 12, 2021",NO,"Average product, does the job but nothing special."
+CUST-1063,,63863.0,Chicagoo,2020-11-30,False,The shipment arrived 3 days late. Not happy.
+CUST-1064,37.0,29718.0,Houston,07-04-2023,yes,
+CUST-1065,37.0,59403.0,New York City,2024/05/01,False,Customer support was incredibly slow and unhelpful.
+CUST-1066,67.0,100614.0,New Yrok,12/25/2022,n,Worst service ever. App crashes continuously on startup.
+CUST-1067,41.0,63979.0,San Francisco,07-04-2023,True,Absolutely amazing value for the price!
+CUST-1068,23.0,54642.0,Houston,invalid_date_xyz,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1069,47.0,85365.0,,"Oct 12, 2021",y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1070,27.0,64541.0,New Yrok,2024/05/01,y,"Average product, does the job but nothing special."
+CUST-1071,21.0,43302.0,Houston,2024/05/01,y,Absolutely amazing value for the price!
+CUST-1072,64.0,84141.0,New York City,invalid_date_xyz,False,"Average product, does the job but nothing special."
+CUST-1073,31.0,50994.0,Chicago,"Feb 28, 2024",True,
+CUST-1074,31.0,26240.0,Houston,,n,Absolutely amazing value for the price!
+CUST-1075,,61028.0,new york,2024/05/01,y,The shipment arrived 3 days late. Not happy.
+CUST-1076,,44065.0,San Fran,invalid_date_xyz,yes,Customer support was incredibly slow and unhelpful.
+CUST-1077,43.0,53708.0,New Yrok,12/25/2022,y,Excellent user experience! Will buy again.
+CUST-1078,,83249.0,Houston,2024/05/01,no,Worst service ever. App crashes continuously on startup.
+CUST-1079,28.0,40169.0,los angeles,2020-11-30,False,The shipment arrived 3 days late. Not happy.
+CUST-1080,,72202.0,SF,2020-11-30,y,Worst service ever. App crashes continuously on startup.
+CUST-1081,250.0,359537.0,SF,"Feb 28, 2024",yes,The shipment arrived 3 days late. Not happy.
+CUST-1082,40.0,82607.0,L.A.,2020-11-30,YES,The shipment arrived 3 days late. Not happy.
+CUST-1083,18.0,32769.0,SF,2020-11-30,True,Customer support was incredibly slow and unhelpful.
+CUST-1084,41.0,76227.0,SF,invalid_date_xyz,y,"Average product, does the job but nothing special."
+CUST-1085,23.0,,Los Angeles!,07-04-2023,True,
+CUST-1086,22.0,43829.0,Chicagoo,07-04-2023,NO,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1087,41.0,68257.0,Los Angeles,2020-11-30,no,
+CUST-1088,42.0,55799.0,new york,invalid_date_xyz,True,The shipment arrived 3 days late. Not happy.
+CUST-1089,40.0,10000000.0,San Fran,07-04-2023,False,Absolutely amazing value for the price!
+CUST-1090,41.0,53784.0,Chicago,12/25/2022,False,
+CUST-1091,60.0,100107.0,New York City,"Oct 12, 2021",NO,Absolutely amazing value for the price!
+CUST-1092,23.0,47348.0,San Francisco,2024/05/01,YES,
+CUST-1093,26.0,53806.0,,2024/05/01,no,Worst service ever. App crashes continuously on startup.
+CUST-1094,51.0,67189.0,Houston,,y,Excellent user experience! Will buy again.
+CUST-1095,49.0,82691.0,New Yrok,12/25/2022,YES,
+CUST-1096,47.0,101951.0,chicago,invalid_date_xyz,True,
+CUST-1097,35.0,44193.0,san francisco,"Feb 28, 2024",False,The shipment arrived 3 days late. Not happy.
+CUST-1098,27.0,31262.0,Chicago,12/25/2022,no,The shipment arrived 3 days late. Not happy.
+CUST-1099,37.0,63617.0,SF,"Feb 28, 2024",yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1100,999.0,1505650.0,Houston,07-04-2023,y,Absolutely amazing value for the price!
+CUST-1101,47.0,73695.0,San Francisco,2020-11-30,,Absolutely amazing value for the price!
+CUST-1102,55.0,,Los Angeles!,2023-01-15,NO,Worst service ever. App crashes continuously on startup.
+CUST-1103,34.0,94802.0,San Francisco,2023-01-15,y,Worst service ever. App crashes continuously on startup.
+CUST-1104,45.0,57642.0,San Francisco,invalid_date_xyz,y,
+CUST-1105,25.0,,Chicago,2020-11-30,yes,Worst service ever. App crashes continuously on startup.
+CUST-1106,43.0,64148.0,SF,2023-01-15,False,Absolutely amazing value for the price!
+CUST-1107,46.0,79098.0,houston,,False,"Average product, does the job but nothing special."
+CUST-1108,37.0,45798.0,San Fran,2020-11-30,NO,Customer support was incredibly slow and unhelpful.
+CUST-1109,19.0,24802.0,L.A.,2024/05/01,YES,Customer support was incredibly slow and unhelpful.
+CUST-1110,48.0,78211.0,Los Angeles!,invalid_date_xyz,n,The shipment arrived 3 days late. Not happy.
+CUST-1111,23.0,40097.0,chicago,12/25/2022,False,
+CUST-1112,42.0,52742.0,N.Y.,2023-01-15,NO,Worst service ever. App crashes continuously on startup.
+CUST-1113,39.0,62373.0,Chicagoo,2023-01-15,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1114,24.0,44366.0,chicago,2023-01-15,n,
+CUST-1115,44.0,85245.0,san francisco,2024/05/01,y,The shipment arrived 3 days late. Not happy.
+CUST-1116,-5.0,15000.0,houston,12/25/2022,True,Excellent user experience! Will buy again.
+CUST-1117,21.0,20432.0,Houston,12/25/2022,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1118,44.0,,Chicagoo,2024/05/01,YES,Excellent user experience! Will buy again.
+CUST-1119,44.0,76725.0,houston,"Oct 12, 2021",y,Absolutely amazing value for the price!
+CUST-1120,84.0,137563.0,San Fran,"Feb 28, 2024",True,Absolutely amazing value for the price!
+CUST-1121,51.0,93810.0,New Yrok,12/25/2022,no,Absolutely amazing value for the price!
+CUST-1122,45.0,65770.0,Houston,invalid_date_xyz,yes,Worst service ever. App crashes continuously on startup.
+CUST-1123,47.0,61907.0,,07-04-2023,YES,
+CUST-1124,35.0,48219.0,houston,2023-01-15,YES,The shipment arrived 3 days late. Not happy.
+CUST-1125,38.0,94719.0,L.A.,invalid_date_xyz,False,Excellent user experience! Will buy again.
+CUST-1126,18.0,40293.0,,"Feb 28, 2024",no,"Average product, does the job but nothing special."
+CUST-1127,18.0,22921.0,San Francisco,"Feb 28, 2024",y,"Average product, does the job but nothing special."
+CUST-1128,51.0,80464.0,N.Y.,2023-01-15,n,Customer support was incredibly slow and unhelpful.
+CUST-1129,25.0,29770.0,Houston,invalid_date_xyz,,Absolutely amazing value for the price!
+CUST-1130,,70193.0,San Fran,2020-11-30,,"Average product, does the job but nothing special."
+CUST-1131,29.0,49746.0,chicago,"Feb 28, 2024",True,Customer support was incredibly slow and unhelpful.
+CUST-1132,38.0,50225.0,SF,12/25/2022,YES,"Average product, does the job but nothing special."
+CUST-1133,63.0,107008.0,houston,invalid_date_xyz,,"Average product, does the job but nothing special."
+CUST-1134,18.0,32796.0,New York,2024/05/01,YES,The shipment arrived 3 days late. Not happy.
+CUST-1135,,,chicago,2024/05/01,n,Absolutely amazing value for the price!
+CUST-1136,30.0,60786.0,Chicagoo,2023-01-15,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1137,28.0,43278.0,L.A.,"Oct 12, 2021",no,The shipment arrived 3 days late. Not happy.
+CUST-1138,,67574.0,Chicagoo,2020-11-30,YES,The shipment arrived 3 days late. Not happy.
+CUST-1139,48.0,56995.0,new york,invalid_date_xyz,,"Average product, does the job but nothing special."
+CUST-1140,33.0,45375.0,New York,invalid_date_xyz,True,Excellent user experience! Will buy again.
+CUST-1141,30.0,,houston,2024/05/01,YES,Absolutely amazing value for the price!
+CUST-1142,-5.0,21981.0,L.A.,2020-11-30,y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1143,42.0,47086.0,N.Y.,2024/05/01,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1144,49.0,10000000.0,Los Angeles!,,y,"Average product, does the job but nothing special."
+CUST-1145,63.0,112986.0,chicago,invalid_date_xyz,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1146,19.0,24236.0,chicago,12/25/2022,False,
+CUST-1147,53.0,,houston,2024/05/01,n,Customer support was incredibly slow and unhelpful.
+CUST-1148,29.0,53157.0,,invalid_date_xyz,NO,Excellent user experience! Will buy again.
+CUST-1149,47.0,59596.0,houston,"Feb 28, 2024",y,Absolutely amazing value for the price!
+CUST-1150,,,san francisco,"Feb 28, 2024",y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1151,150.0,227107.0,Chicagoo,"Oct 12, 2021",True,Excellent user experience! Will buy again.
+CUST-1152,18.0,15000.0,San Fran,2024/05/01,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1153,34.0,35283.0,San Fran,2023-01-15,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1154,57.0,67047.0,N.Y.,"Oct 12, 2021",False,The shipment arrived 3 days late. Not happy.
+CUST-1155,32.0,52961.0,Los Angeles,"Oct 12, 2021",,Customer support was incredibly slow and unhelpful.
+CUST-1156,55.0,63962.0,San Fran,2023-01-15,NO,The shipment arrived 3 days late. Not happy.
+CUST-1157,51.0,79653.0,houston,2020-11-30,NO,"Average product, does the job but nothing special."
+CUST-1158,26.0,48931.0,chicago,invalid_date_xyz,n,Absolutely amazing value for the price!
+CUST-1159,40.0,53996.0,San Fran,07-04-2023,YES,"Average product, does the job but nothing special."
+CUST-1160,,61047.0,Chicagoo,2020-11-30,y,
+CUST-1161,33.0,54202.0,san francisco,"Feb 28, 2024",False,
+CUST-1162,,69931.0,Los Angeles!,invalid_date_xyz,NO,"Average product, does the job but nothing special."
+CUST-1163,57.0,69932.0,N.Y.,2023-01-15,YES,Absolutely amazing value for the price!
+CUST-1164,63.0,68218.0,houston,2020-11-30,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1165,36.0,65824.0,San Fran,invalid_date_xyz,no,The shipment arrived 3 days late. Not happy.
+CUST-1166,41.0,55159.0,chicago,2024/05/01,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1167,35.0,5000000.0,houston,,False,"Average product, does the job but nothing special."
+CUST-1168,32.0,,Chicagoo,invalid_date_xyz,True,The shipment arrived 3 days late. Not happy.
+CUST-1169,30.0,60744.0,chicago,2024/05/01,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1170,42.0,55606.0,san francisco,12/25/2022,n,
+CUST-1171,,73493.0,san francisco,07-04-2023,False,
+CUST-1172,41.0,10000000.0,New Yrok,2023-01-15,y,Worst service ever. App crashes continuously on startup.
+CUST-1173,,72192.0,New York,2023-01-15,no,Worst service ever. App crashes continuously on startup.
+CUST-1174,45.0,58065.0,houston,"Feb 28, 2024",YES,"Average product, does the job but nothing special."
+CUST-1175,31.0,60709.0,los angeles,2020-11-30,True,Absolutely amazing value for the price!
+CUST-1176,45.0,70186.0,,2023-01-15,no,
+CUST-1177,39.0,80664.0,new york,"Oct 12, 2021",yes,
+CUST-1178,30.0,56206.0,SF,07-04-2023,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1179,35.0,,san francisco,invalid_date_xyz,,The shipment arrived 3 days late. Not happy.
+CUST-1180,35.0,71981.0,houston,invalid_date_xyz,NO,The shipment arrived 3 days late. Not happy.
+CUST-1181,47.0,,houston,"Oct 12, 2021",n,Worst service ever. App crashes continuously on startup.
+CUST-1182,,72202.0,Los Angeles,2023-01-15,NO,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1183,53.0,82815.0,chicago,,no,Absolutely amazing value for the price!
+CUST-1184,46.0,67345.0,Los Angeles!,2020-11-30,n,"Average product, does the job but nothing special."
+CUST-1185,41.0,10000000.0,Chicago,"Oct 12, 2021",yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1186,36.0,58454.0,Chicago,invalid_date_xyz,n,Absolutely amazing value for the price!
+CUST-1187,45.0,58226.0,Houston,2024/05/01,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1188,63.0,82409.0,New York,"Oct 12, 2021",YES,
+CUST-1189,23.0,54871.0,San Fran,,True,
+CUST-1190,47.0,82861.0,N.Y.,2024/05/01,no,Customer support was incredibly slow and unhelpful.
+CUST-1191,45.0,70316.0,chicago,invalid_date_xyz,NO,Absolutely amazing value for the price!
+CUST-1192,27.0,44637.0,New York,invalid_date_xyz,,
+CUST-1193,29.0,61126.0,Chicagoo,2023-01-15,False,Excellent user experience! Will buy again.
+CUST-1194,36.0,44617.0,new york,"Oct 12, 2021",True,"Average product, does the job but nothing special."
+CUST-1195,34.0,60193.0,houston,12/25/2022,n,
+CUST-1196,31.0,37166.0,San Fran,2020-11-30,False,"Average product, does the job but nothing special."
+CUST-1197,40.0,66674.0,San Fran,"Oct 12, 2021",no,Worst service ever. App crashes continuously on startup.
+CUST-1198,31.0,42434.0,chicago,,n,Excellent user experience! Will buy again.
+CUST-1199,40.0,41278.0,San Fran,12/25/2022,n,Excellent user experience! Will buy again.
+CUST-1200,21.0,5000000.0,san francisco,2020-11-30,False,
+CUST-1201,29.0,43298.0,New York City,invalid_date_xyz,NO,Customer support was incredibly slow and unhelpful.
+CUST-1202,41.0,86630.0,San Fran,07-04-2023,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1203,48.0,72600.0,houston,invalid_date_xyz,NO,"Average product, does the job but nothing special."
+CUST-1204,37.0,43462.0,san francisco,2023-01-15,False,Customer support was incredibly slow and unhelpful.
+CUST-1205,37.0,54170.0,houston,2020-11-30,True,Excellent user experience! Will buy again.
+CUST-1206,41.0,52091.0,San Fran,07-04-2023,no,
+CUST-1207,44.0,91991.0,San Francisco,"Feb 28, 2024",n,Worst service ever. App crashes continuously on startup.
+CUST-1208,,58368.0,san francisco,2024/05/01,yes,"Average product, does the job but nothing special."
+CUST-1209,42.0,76352.0,L.A.,"Oct 12, 2021",n,Worst service ever. App crashes continuously on startup.
+CUST-1210,33.0,,,12/25/2022,YES,The shipment arrived 3 days late. Not happy.
+CUST-1211,40.0,63188.0,San Fran,"Feb 28, 2024",YES,Worst service ever. App crashes continuously on startup.
+CUST-1212,39.0,49904.0,houston,"Oct 12, 2021",no,Absolutely amazing value for the price!
+CUST-1213,38.0,67469.0,Houston,07-04-2023,True,"Average product, does the job but nothing special."
+CUST-1214,55.0,99889.0,Chicagoo,07-04-2023,y,
+CUST-1215,63.0,85989.0,san francisco,invalid_date_xyz,YES,Worst service ever. App crashes continuously on startup.
+CUST-1216,48.0,77750.0,San Francisco,invalid_date_xyz,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1217,64.0,86875.0,houston,"Oct 12, 2021",y,"Average product, does the job but nothing special."
+CUST-1218,27.0,34509.0,Houston,07-04-2023,yes,Worst service ever. App crashes continuously on startup.
+CUST-1219,18.0,414888.0,Chicago,12/25/2022,no,Customer support was incredibly slow and unhelpful.
+CUST-1220,31.0,38113.0,San Fran,"Oct 12, 2021",yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1221,39.0,66626.0,chicago,12/25/2022,True,"Average product, does the job but nothing special."
+CUST-1222,-5.0,23642.0,Chicago,invalid_date_xyz,y,Worst service ever. App crashes continuously on startup.
+CUST-1223,49.0,67846.0,New Yrok,07-04-2023,False,Excellent user experience! Will buy again.
+CUST-1224,27.0,10000000.0,Chicago,"Feb 28, 2024",False,Absolutely amazing value for the price!
+CUST-1225,43.0,47696.0,houston,2023-01-15,False,
+CUST-1226,59.0,109191.0,Houston,2020-11-30,y,
+CUST-1227,,52962.0,Los Angeles,"Oct 12, 2021",no,Excellent user experience! Will buy again.
+CUST-1228,,34302.0,,12/25/2022,True,Worst service ever. App crashes continuously on startup.
+CUST-1229,54.0,82281.0,New York,2024/05/01,YES,The shipment arrived 3 days late. Not happy.
+CUST-1230,52.0,,Los Angeles!,2024/05/01,False,Excellent user experience! Will buy again.
+CUST-1231,18.0,450671.0,chicago,2020-11-30,NO,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1232,30.0,48078.0,New York City,"Oct 12, 2021",y,Absolutely amazing value for the price!
+CUST-1233,38.0,53249.0,new york,2023-01-15,n,
+CUST-1234,45.0,54485.0,Los Angeles!,2023-01-15,yes,Excellent user experience! Will buy again.
+CUST-1235,36.0,58804.0,Chicagoo,"Feb 28, 2024",no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1236,44.0,79674.0,san francisco,07-04-2023,no,Worst service ever. App crashes continuously on startup.
+CUST-1237,24.0,,New Yrok,2023-01-15,YES,
+CUST-1238,19.0,50665.0,Chicagoo,2020-11-30,YES,Absolutely amazing value for the price!
+CUST-1239,41.0,53272.0,New York City,12/25/2022,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1240,56.0,88735.0,Chicago,12/25/2022,yes,
+CUST-1241,52.0,82012.0,Houston,2023-01-15,True,Customer support was incredibly slow and unhelpful.
+CUST-1242,62.0,122330.0,N.Y.,2023-01-15,yes,Excellent user experience! Will buy again.
+CUST-1243,35.0,70073.0,chicago,07-04-2023,y,Customer support was incredibly slow and unhelpful.
+CUST-1244,45.0,91029.0,los angeles,2023-01-15,n,The shipment arrived 3 days late. Not happy.
+CUST-1245,26.0,,houston,"Oct 12, 2021",yes,Customer support was incredibly slow and unhelpful.
+CUST-1246,,70290.0,San Fran,12/25/2022,YES,Worst service ever. App crashes continuously on startup.
+CUST-1247,50.0,51618.0,los angeles,"Feb 28, 2024",n,"Average product, does the job but nothing special."
+CUST-1248,23.0,15000.0,San Francisco,invalid_date_xyz,no,Absolutely amazing value for the price!
+CUST-1249,34.0,64763.0,New York,2023-01-15,n,
+CUST-1250,56.0,88111.0,New York City,2023-01-15,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1251,57.0,67798.0,,"Oct 12, 2021",True,The shipment arrived 3 days late. Not happy.
+CUST-1252,,34449.0,New York,invalid_date_xyz,no,Absolutely amazing value for the price!
+CUST-1253,-50.0,,San Fran,2023-01-15,True,Customer support was incredibly slow and unhelpful.
+CUST-1254,37.0,64260.0,Los Angeles,2020-11-30,False,
+CUST-1255,37.0,27488.0,san francisco,2023-01-15,n,Absolutely amazing value for the price!
+CUST-1256,36.0,37432.0,houston,"Oct 12, 2021",,"Average product, does the job but nothing special."
+CUST-1257,46.0,77498.0,san francisco,"Oct 12, 2021",yes,Customer support was incredibly slow and unhelpful.
+CUST-1258,26.0,34291.0,los angeles,07-04-2023,yes,"Average product, does the job but nothing special."
+CUST-1259,25.0,39559.0,Los Angeles!,2023-01-15,NO,Excellent user experience! Will buy again.
+CUST-1260,,74327.0,los angeles,07-04-2023,,
+CUST-1261,26.0,49560.0,SF,"Feb 28, 2024",n,Customer support was incredibly slow and unhelpful.
+CUST-1262,31.0,37606.0,houston,07-04-2023,YES,The shipment arrived 3 days late. Not happy.
+CUST-1263,-5.0,15000.0,San Fran,2023-01-15,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1264,25.0,32195.0,L.A.,07-04-2023,no,The shipment arrived 3 days late. Not happy.
+CUST-1265,23.0,66970.0,Chicago,2020-11-30,yes,
+CUST-1266,38.0,49504.0,houston,"Feb 28, 2024",False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1267,40.0,61315.0,New York,12/25/2022,YES,Customer support was incredibly slow and unhelpful.
+CUST-1268,35.0,64712.0,New York City,invalid_date_xyz,True,Customer support was incredibly slow and unhelpful.
+CUST-1269,47.0,,Chicago,2020-11-30,y,Excellent user experience! Will buy again.
+CUST-1270,31.0,40862.0,,invalid_date_xyz,yes,The shipment arrived 3 days late. Not happy.
+CUST-1271,,55874.0,chicago,2020-11-30,True,Worst service ever. App crashes continuously on startup.
+CUST-1272,18.0,15000.0,houston,2023-01-15,no,
+CUST-1273,54.0,108674.0,san francisco,"Feb 28, 2024",False,Customer support was incredibly slow and unhelpful.
+CUST-1274,,56264.0,N.Y.,2024/05/01,False,Customer support was incredibly slow and unhelpful.
+CUST-1275,44.0,73668.0,Houston,2024/05/01,y,The shipment arrived 3 days late. Not happy.
+CUST-1276,,106183.0,houston,2023-01-15,True,
+CUST-1277,51.0,77581.0,New York,2020-11-30,n,"Average product, does the job but nothing special."
+CUST-1278,26.0,17903.0,new york,"Feb 28, 2024",,"Average product, does the job but nothing special."
+CUST-1279,,63051.0,,2020-11-30,False,The shipment arrived 3 days late. Not happy.
+CUST-1280,28.0,23666.0,houston,12/25/2022,NO,Worst service ever. App crashes continuously on startup.
+CUST-1281,30.0,31776.0,N.Y.,"Feb 28, 2024",yes,Absolutely amazing value for the price!
+CUST-1282,,,New York City,invalid_date_xyz,no,Customer support was incredibly slow and unhelpful.
+CUST-1283,58.0,103224.0,houston,2020-11-30,no,Worst service ever. App crashes continuously on startup.
+CUST-1284,37.0,80699.0,los angeles,2020-11-30,yes,Absolutely amazing value for the price!
+CUST-1285,38.0,47080.0,Los Angeles,2020-11-30,y,Worst service ever. App crashes continuously on startup.
+CUST-1286,56.0,95083.0,Chicagoo,12/25/2022,,Absolutely amazing value for the price!
+CUST-1287,25.0,37644.0,chicago,07-04-2023,n,"Average product, does the job but nothing special."
+CUST-1288,27.0,22758.0,los angeles,2023-01-15,True,The shipment arrived 3 days late. Not happy.
+CUST-1289,,73892.0,chicago,2023-01-15,NO,The shipment arrived 3 days late. Not happy.
+CUST-1290,60.0,72021.0,Chicagoo,2024/05/01,False,
+CUST-1291,44.0,59240.0,L.A.,"Oct 12, 2021",y,"Average product, does the job but nothing special."
+CUST-1292,32.0,42114.0,,12/25/2022,NO,Absolutely amazing value for the price!
+CUST-1293,27.0,44227.0,los angeles,invalid_date_xyz,YES,Worst service ever. App crashes continuously on startup.
+CUST-1294,28.0,49056.0,New York,2024/05/01,YES,Absolutely amazing value for the price!
+CUST-1295,-50.0,15000.0,houston,2023-01-15,n,"Average product, does the job but nothing special."
+CUST-1296,35.0,,new york,2020-11-30,True,"Average product, does the job but nothing special."
+CUST-1297,27.0,34848.0,chicago,07-04-2023,YES,Worst service ever. App crashes continuously on startup.
+CUST-1298,47.0,81013.0,Houston,2024/05/01,yes,Customer support was incredibly slow and unhelpful.
+CUST-1299,26.0,43489.0,houston,2023-01-15,yes,
+CUST-1300,47.0,48458.0,chicago,2023-01-15,no,"Average product, does the job but nothing special."
+CUST-1301,44.0,59060.0,N.Y.,12/25/2022,False,Customer support was incredibly slow and unhelpful.
+CUST-1302,44.0,57551.0,Chicagoo,invalid_date_xyz,False,Excellent user experience! Will buy again.
+,,32926.0,San Fran,12/25/2022,no,The shipment arrived 3 days late. Not happy.
+CUST-1304,18.0,30721.0,Houston,2023-01-15,n,"Average product, does the job but nothing special."
+CUST-1305,150.0,,los angeles,2020-11-30,no,"Average product, does the job but nothing special."
+CUST-1306,41.0,50935.0,chicago,"Feb 28, 2024",YES,
+CUST-1307,,69578.0,Los Angeles,invalid_date_xyz,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1308,18.0,29008.0,Los Angeles!,"Feb 28, 2024",no,"Average product, does the job but nothing special."
+,23.0,27722.0,san francisco,07-04-2023,no,The shipment arrived 3 days late. Not happy.
+CUST-1310,38.0,47093.0,Houston,2023-01-15,,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1311,33.0,67594.0,New Yrok,2020-11-30,,The shipment arrived 3 days late. Not happy.
+CUST-1312,31.0,,houston,07-04-2023,False,Excellent user experience! Will buy again.
+CUST-1313,48.0,58054.0,New York,2020-11-30,NO,Worst service ever. App crashes continuously on startup.
+CUST-1314,44.0,,Los Angeles!,invalid_date_xyz,n,Excellent user experience! Will buy again.
+CUST-1315,55.0,,Chicagoo,07-04-2023,yes,Worst service ever. App crashes continuously on startup.
+CUST-1316,18.0,18046.0,New York City,"Feb 28, 2024",NO,Excellent user experience! Will buy again.
+CUST-1317,,68656.0,San Francisco,2024/05/01,yes,Excellent user experience! Will buy again.
+CUST-1318,35.0,61067.0,san francisco,2024/05/01,n,Worst service ever. App crashes continuously on startup.
+CUST-1319,30.0,49298.0,L.A.,2020-11-30,YES,
+CUST-1320,36.0,74516.0,SF,"Oct 12, 2021",y,The shipment arrived 3 days late. Not happy.
+CUST-1321,41.0,69564.0,L.A.,invalid_date_xyz,True,Absolutely amazing value for the price!
+CUST-1322,33.0,45185.0,N.Y.,2023-01-15,NO,Absolutely amazing value for the price!
+CUST-1323,32.0,56916.0,New York City,07-04-2023,no,The shipment arrived 3 days late. Not happy.
+CUST-1324,32.0,55346.0,San Fran,2020-11-30,yes,Worst service ever. App crashes continuously on startup.
+CUST-1325,62.0,109066.0,,invalid_date_xyz,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1326,34.0,72018.0,L.A.,12/25/2022,YES,Excellent user experience! Will buy again.
+CUST-1327,33.0,21928.0,los angeles,07-04-2023,YES,
+CUST-1328,25.0,15000.0,SF,07-04-2023,n,Customer support was incredibly slow and unhelpful.
+CUST-1329,33.0,52776.0,San Fran,"Oct 12, 2021",n,Customer support was incredibly slow and unhelpful.
+CUST-1330,58.0,94903.0,San Francisco,"Oct 12, 2021",NO,The shipment arrived 3 days late. Not happy.
+CUST-1331,35.0,67941.0,New Yrok,2023-01-15,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1332,,26832.0,L.A.,2024/05/01,yes,Customer support was incredibly slow and unhelpful.
+CUST-1333,40.0,74562.0,Houston,"Feb 28, 2024",no,Customer support was incredibly slow and unhelpful.
+CUST-1334,20.0,,New York,12/25/2022,NO,Worst service ever. App crashes continuously on startup.
+CUST-1335,51.0,84577.0,New Yrok,12/25/2022,yes,Excellent user experience! Will buy again.
+CUST-1336,33.0,61991.0,Chicagoo,invalid_date_xyz,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1337,65.0,103227.0,SF,07-04-2023,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1338,,63723.0,Houston,07-04-2023,YES,Customer support was incredibly slow and unhelpful.
+CUST-1339,32.0,38252.0,San Francisco,invalid_date_xyz,no,Excellent user experience! Will buy again.
+CUST-1340,47.0,60658.0,chicago,12/25/2022,no,"Average product, does the job but nothing special."
+CUST-1341,38.0,52835.0,san francisco,07-04-2023,YES,
+CUST-1342,43.0,72504.0,houston,07-04-2023,False,Absolutely amazing value for the price!
+CUST-1343,50.0,70349.0,San Francisco,2024/05/01,NO,The shipment arrived 3 days late. Not happy.
+CUST-1344,,,San Francisco,"Oct 12, 2021",y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1345,34.0,39318.0,L.A.,12/25/2022,yes,Absolutely amazing value for the price!
+CUST-1346,32.0,56659.0,san francisco,2024/05/01,False,Excellent user experience! Will buy again.
+CUST-1347,47.0,,,07-04-2023,False,Excellent user experience! Will buy again.
+CUST-1348,26.0,55044.0,SF,2024/05/01,True,The shipment arrived 3 days late. Not happy.
+CUST-1349,,80334.0,Los Angeles!,invalid_date_xyz,yes,Customer support was incredibly slow and unhelpful.
+CUST-1350,42.0,94151.0,Chicago,12/25/2022,True,The shipment arrived 3 days late. Not happy.
+CUST-1351,28.0,26330.0,san francisco,"Oct 12, 2021",,Customer support was incredibly slow and unhelpful.
+CUST-1352,18.0,52440.0,Los Angeles,"Feb 28, 2024",yes,The shipment arrived 3 days late. Not happy.
+CUST-1353,45.0,10000000.0,San Fran,"Feb 28, 2024",YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1354,37.0,62699.0,Houston,12/25/2022,,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1355,24.0,75686.0,Los Angeles!,12/25/2022,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1356,39.0,63140.0,houston,,NO,Worst service ever. App crashes continuously on startup.
+CUST-1357,46.0,79215.0,San Francisco,"Oct 12, 2021",no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1358,40.0,51142.0,N.Y.,"Feb 28, 2024",n,Excellent user experience! Will buy again.
+CUST-1359,43.0,95730.0,San Fran,"Feb 28, 2024",True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1360,54.0,107897.0,chicago,"Feb 28, 2024",no,Worst service ever. App crashes continuously on startup.
+CUST-1361,31.0,34655.0,San Fran,2023-01-15,yes,Absolutely amazing value for the price!
+CUST-1362,36.0,57835.0,New York City,2023-01-15,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1363,51.0,,Los Angeles!,2020-11-30,NO,The shipment arrived 3 days late. Not happy.
+CUST-1364,18.0,,Los Angeles,07-04-2023,True,"I really like the new dark mode design, it is much easier on the eyes."
+,56.0,84629.0,SF,07-04-2023,y,Customer support was incredibly slow and unhelpful.
+CUST-1366,32.0,,Los Angeles!,2020-11-30,no,"Average product, does the job but nothing special."
+CUST-1367,25.0,15677.0,houston,07-04-2023,False,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1368,47.0,74599.0,Houston,07-04-2023,n,Excellent user experience! Will buy again.
+CUST-1369,22.0,16573.0,houston,invalid_date_xyz,NO,"Average product, does the job but nothing special."
+CUST-1370,33.0,77535.0,Los Angeles!,"Oct 12, 2021",NO,Absolutely amazing value for the price!
+CUST-1371,34.0,31452.0,New York,invalid_date_xyz,yes,"Average product, does the job but nothing special."
+CUST-1372,35.0,51409.0,SF,2020-11-30,YES,
+CUST-1373,18.0,29185.0,SF,2024/05/01,no,Worst service ever. App crashes continuously on startup.
+CUST-1374,,56535.0,Houston,2020-11-30,y,Worst service ever. App crashes continuously on startup.
+CUST-1375,46.0,99734.0,Houston,07-04-2023,y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1376,51.0,75466.0,New York City,"Feb 28, 2024",YES,Excellent user experience! Will buy again.
+CUST-1377,24.0,77600.0,SF,2023-01-15,YES,
+CUST-1378,38.0,60208.0,houston,2020-11-30,True,
+CUST-1379,37.0,61471.0,san francisco,07-04-2023,False,Worst service ever. App crashes continuously on startup.
+CUST-1380,36.0,48395.0,los angeles,"Feb 28, 2024",True,Excellent user experience! Will buy again.
+CUST-1381,31.0,49008.0,Chicagoo,2020-11-30,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1382,31.0,38807.0,new york,12/25/2022,True,
+CUST-1383,39.0,57675.0,New Yrok,12/25/2022,YES,
+CUST-1384,56.0,47235.0,chicago,2024/05/01,,Absolutely amazing value for the price!
+CUST-1385,51.0,98191.0,SF,2024/05/01,False,The shipment arrived 3 days late. Not happy.
+CUST-1386,18.0,24859.0,SF,"Oct 12, 2021",False,Worst service ever. App crashes continuously on startup.
+CUST-1387,33.0,,L.A.,invalid_date_xyz,False,Absolutely amazing value for the price!
+CUST-1388,21.0,22832.0,N.Y.,"Feb 28, 2024",YES,The shipment arrived 3 days late. Not happy.
+CUST-1389,24.0,65284.0,Houston,2020-11-30,y,Absolutely amazing value for the price!
+CUST-1390,49.0,95573.0,houston,"Oct 12, 2021",YES,
+CUST-1391,46.0,55064.0,Chicago,"Oct 12, 2021",yes,"Average product, does the job but nothing special."
+CUST-1392,31.0,56840.0,chicago,,YES,
+CUST-1393,,41668.0,L.A.,12/25/2022,NO,Worst service ever. App crashes continuously on startup.
+CUST-1394,46.0,68395.0,N.Y.,"Feb 28, 2024",y,Customer support was incredibly slow and unhelpful.
+CUST-1395,,54377.0,San Francisco,"Oct 12, 2021",yes,Customer support was incredibly slow and unhelpful.
+CUST-1396,46.0,78663.0,new york,"Feb 28, 2024",yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1397,33.0,69889.0,Chicago,07-04-2023,yes,
+CUST-1398,25.0,49739.0,Los Angeles!,07-04-2023,False,Excellent user experience! Will buy again.
+CUST-1399,45.0,65856.0,New Yrok,invalid_date_xyz,YES,"Average product, does the job but nothing special."
+CUST-1400,41.0,45733.0,san francisco,2020-11-30,n,Absolutely amazing value for the price!
+CUST-1401,49.0,73726.0,N.Y.,"Oct 12, 2021",no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1402,31.0,65235.0,san francisco,07-04-2023,no,
+CUST-1403,29.0,,New Yrok,,True,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1404,21.0,,,invalid_date_xyz,no,The shipment arrived 3 days late. Not happy.
+CUST-1405,19.0,40590.0,houston,2020-11-30,no,Excellent user experience! Will buy again.
+CUST-1406,22.0,5000000.0,San Fran,"Oct 12, 2021",YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1407,999.0,1527821.0,houston,2024/05/01,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1408,18.0,55446.0,Chicagoo,07-04-2023,True,"Average product, does the job but nothing special."
+CUST-1409,40.0,61549.0,SF,"Feb 28, 2024",,
+CUST-1410,,51826.0,Chicago,07-04-2023,,The shipment arrived 3 days late. Not happy.
+CUST-1411,42.0,65435.0,san francisco,2024/05/01,n,Customer support was incredibly slow and unhelpful.
+CUST-1412,51.0,10000000.0,san francisco,invalid_date_xyz,no,"Average product, does the job but nothing special."
+CUST-1413,39.0,63754.0,New York City,"Feb 28, 2024",no,Customer support was incredibly slow and unhelpful.
+CUST-1414,33.0,51645.0,Houston,,YES,The shipment arrived 3 days late. Not happy.
+CUST-1415,,64617.0,houston,12/25/2022,y,Customer support was incredibly slow and unhelpful.
+CUST-1416,,34347.0,N.Y.,"Feb 28, 2024",YES,Worst service ever. App crashes continuously on startup.
+CUST-1417,21.0,45648.0,los angeles,"Feb 28, 2024",no,
+CUST-1418,40.0,60240.0,Chicagoo,2024/05/01,False,Worst service ever. App crashes continuously on startup.
+CUST-1419,38.0,65213.0,Chicago,12/25/2022,NO,Customer support was incredibly slow and unhelpful.
+CUST-1420,31.0,,New York City,,NO,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1421,28.0,47937.0,Los Angeles,2023-01-15,yes,Absolutely amazing value for the price!
+CUST-1422,26.0,48123.0,New York,07-04-2023,yes,The shipment arrived 3 days late. Not happy.
+CUST-1423,18.0,45437.0,New York City,12/25/2022,False,The shipment arrived 3 days late. Not happy.
+CUST-1424,43.0,71340.0,chicago,07-04-2023,n,Customer support was incredibly slow and unhelpful.
+CUST-1425,49.0,101482.0,New York City,2023-01-15,y,"Average product, does the job but nothing special."
+CUST-1426,50.0,10000000.0,san francisco,"Feb 28, 2024",n,Customer support was incredibly slow and unhelpful.
+CUST-1427,18.0,15000.0,los angeles,2024/05/01,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1428,30.0,48391.0,new york,2023-01-15,True,"Average product, does the job but nothing special."
+CUST-1429,44.0,58113.0,Chicago,2024/05/01,,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1430,40.0,51669.0,los angeles,invalid_date_xyz,False,"Average product, does the job but nothing special."
+CUST-1431,30.0,26900.0,los angeles,2023-01-15,True,The shipment arrived 3 days late. Not happy.
+CUST-1432,26.0,,houston,"Oct 12, 2021",yes,Absolutely amazing value for the price!
+CUST-1433,21.0,19861.0,San Francisco,2023-01-15,NO,Worst service ever. App crashes continuously on startup.
+CUST-1434,,75804.0,new york,2020-11-30,y,Worst service ever. App crashes continuously on startup.
+CUST-1435,26.0,81485.0,Los Angeles!,12/25/2022,YES,"Average product, does the job but nothing special."
+CUST-1436,43.0,70272.0,Los Angeles!,2024/05/01,no,
+CUST-1437,27.0,10000000.0,san francisco,2024/05/01,YES,Customer support was incredibly slow and unhelpful.
+CUST-1438,46.0,63365.0,Chicagoo,2024/05/01,YES,Excellent user experience! Will buy again.
+CUST-1439,39.0,99901.0,Houston,"Oct 12, 2021",False,Worst service ever. App crashes continuously on startup.
+CUST-1440,36.0,74239.0,SF,"Oct 12, 2021",,
+CUST-1441,,49452.0,SF,12/25/2022,YES,"Average product, does the job but nothing special."
+CUST-1442,37.0,85062.0,san francisco,07-04-2023,no,"Average product, does the job but nothing special."
+CUST-1443,30.0,,Houston,2020-11-30,True,The shipment arrived 3 days late. Not happy.
+CUST-1444,,87186.0,San Francisco,2020-11-30,n,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1445,46.0,63562.0,San Fran,invalid_date_xyz,NO,Customer support was incredibly slow and unhelpful.
+,,69486.0,new york,"Feb 28, 2024",,Absolutely amazing value for the price!
+CUST-1447,,74588.0,chicago,07-04-2023,no,"Average product, does the job but nothing special."
+CUST-1448,45.0,46946.0,los angeles,invalid_date_xyz,yes,Worst service ever. App crashes continuously on startup.
+CUST-1449,29.0,42787.0,chicago,2023-01-15,y,The shipment arrived 3 days late. Not happy.
+CUST-1450,37.0,67810.0,chicago,2023-01-15,True,Absolutely amazing value for the price!
+CUST-1451,40.0,42969.0,New York City,2023-01-15,no,Customer support was incredibly slow and unhelpful.
+CUST-1452,42.0,75158.0,SF,2023-01-15,no,Excellent user experience! Will buy again.
+CUST-1453,44.0,85211.0,chicago,07-04-2023,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1454,48.0,81887.0,houston,2023-01-15,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1455,37.0,33585.0,N.Y.,2023-01-15,y,Customer support was incredibly slow and unhelpful.
+CUST-1456,43.0,70615.0,chicago,2024/05/01,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1457,41.0,45348.0,chicago,2020-11-30,YES,
+CUST-1458,25.0,56297.0,Los Angeles,12/25/2022,no,Customer support was incredibly slow and unhelpful.
+CUST-1459,37.0,68722.0,houston,12/25/2022,False,Excellent user experience! Will buy again.
+CUST-1460,38.0,60446.0,houston,invalid_date_xyz,NO,
+CUST-1461,49.0,68759.0,L.A.,invalid_date_xyz,no,"Average product, does the job but nothing special."
+CUST-1462,39.0,54565.0,Chicagoo,"Feb 28, 2024",no,The shipment arrived 3 days late. Not happy.
+CUST-1463,32.0,46362.0,San Fran,2024/05/01,True,
+CUST-1464,40.0,55818.0,houston,12/25/2022,False,
+CUST-1465,53.0,10000000.0,L.A.,12/25/2022,True,The shipment arrived 3 days late. Not happy.
+CUST-1466,,46580.0,San Francisco,invalid_date_xyz,True,Worst service ever. App crashes continuously on startup.
+CUST-1467,35.0,48904.0,SF,07-04-2023,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1468,-50.0,,,07-04-2023,y,Customer support was incredibly slow and unhelpful.
+CUST-1469,55.0,88448.0,houston,2024/05/01,NO,Absolutely amazing value for the price!
+CUST-1470,50.0,55716.0,,2024/05/01,False,Customer support was incredibly slow and unhelpful.
+CUST-1471,41.0,77844.0,houston,"Feb 28, 2024",False,Customer support was incredibly slow and unhelpful.
+CUST-1472,38.0,75982.0,L.A.,07-04-2023,,
+CUST-1473,31.0,70640.0,new york,2020-11-30,no,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1474,65.0,95057.0,N.Y.,2023-01-15,yes,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1475,32.0,72800.0,chicago,,y,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1476,56.0,79157.0,San Francisco,2023-01-15,no,
+CUST-1477,32.0,46773.0,SF,12/25/2022,YES,"Average product, does the job but nothing special."
+CUST-1478,21.0,20720.0,Houston,07-04-2023,YES,Absolutely amazing value for the price!
+CUST-1479,25.0,28983.0,Houston,2024/05/01,n,
+CUST-1480,37.0,,houston,"Oct 12, 2021",True,Customer support was incredibly slow and unhelpful.
+CUST-1481,40.0,86257.0,houston,2023-01-15,n,Worst service ever. App crashes continuously on startup.
+CUST-1482,26.0,56764.0,chicago,"Feb 28, 2024",NO,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1483,35.0,54758.0,L.A.,12/25/2022,,
+CUST-1484,46.0,55159.0,chicago,,NO,The shipment arrived 3 days late. Not happy.
+CUST-1485,42.0,5000000.0,Houston,2020-11-30,no,"Average product, does the job but nothing special."
+CUST-1486,39.0,68886.0,chicago,2023-01-15,n,"Average product, does the job but nothing special."
+CUST-1487,41.0,101329.0,Houston,invalid_date_xyz,True,The shipment arrived 3 days late. Not happy.
+CUST-1488,30.0,40035.0,New York,invalid_date_xyz,,The shipment arrived 3 days late. Not happy.
+CUST-1489,30.0,39667.0,Chicago,2023-01-15,False,Worst service ever. App crashes continuously on startup.
+CUST-1490,30.0,65835.0,,invalid_date_xyz,n,"Average product, does the job but nothing special."
+CUST-1491,55.0,76938.0,New York City,12/25/2022,y,Customer support was incredibly slow and unhelpful.
+CUST-1492,28.0,52071.0,Chicagoo,07-04-2023,False,Customer support was incredibly slow and unhelpful.
+CUST-1493,,51716.0,Los Angeles!,2020-11-30,False,Excellent user experience! Will buy again.
+CUST-1494,,69493.0,New Yrok,invalid_date_xyz,YES,Customer support was incredibly slow and unhelpful.
+CUST-1495,,63043.0,New Yrok,"Oct 12, 2021",YES,
+CUST-1496,19.0,54712.0,New Yrok,12/25/2022,no,
+CUST-1497,59.0,,Los Angeles!,"Feb 28, 2024",YES,Absolutely amazing value for the price!
+CUST-1498,,50808.0,New York,2024/05/01,YES,"I really like the new dark mode design, it is much easier on the eyes."
+CUST-1499,,54184.0,San Fran,,yes,
